@@ -2,9 +2,8 @@
 
 A production-ready backend service for orchestrating AI-driven phone calls with concurrency management, retry logic, and webhook integration.
 
-## ✅ Assessment Status: COMPLETE
+## Overview
 
-**All PDF requirements implemented and tested:**
 - ✅ REST API with all 6 required endpoints
 - ✅ PostgreSQL persistence with TypeORM  
 - ✅ Concurrency control (max 30 calls)
@@ -243,6 +242,6 @@ The service expects the external AI call provider to:
    - `completedAt`: Completion timestamp
    - `durationSec`: Call duration (optional)
 
-## License
+---
 
-MIT License - see LICENSE file for details.
+**Built By MAZEN for Ebra 🚀**
