@@ -1,7 +1,5 @@
 # AI Call Orchestrator Service
 
-**Ebra Backend Assessment - Complete Implementation**
-
 A production-ready backend service for orchestrating AI-driven phone calls with concurrency management, retry logic, and webhook integration.
 
 ## ✅ Assessment Status: COMPLETE
@@ -52,7 +50,7 @@ curl http://localhost:3000/health
 - **Framework**: Express.js
 - **Database**: PostgreSQL 15
 - **ORM**: TypeORM
-- **Cache**: Redis (optional)
+- **Cache**: Redis 
 - **Queue**: In-memory (Kafka ready)
 - **Logging**: Winston
 - **Validation**: Joi
